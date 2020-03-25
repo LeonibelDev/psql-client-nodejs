@@ -21,6 +21,5 @@ const pool = new Pool({
     });
 
 
-
 // export the class for use from others files
 module.exports = pool;
